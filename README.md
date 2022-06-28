@@ -1,62 +1,54 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Leaderboard
 
-> Description the project.
+> This is a project that uses Javascript to fetch data from an API and uses it to display the latest scores obtained by players of a certain game.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- Javascript
+- Webpack
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+A live demo is currently unavailable.
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+- A code editor
+- GitBash
+- Webpack
 
 ### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+1. Open your GitBash and move into a directory of your preference.
+2. Run git clone https://github.com/godiarksel/leaderboard-api.git
+3. Run cd https://github.com/godiarksel/leaderboard-api.git
+4. Then code .
+5. Once your code editor is open, install all required webpack assets.
+6. Finally run npm start.
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Godfrey Arksel**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@godiarksel](https://github.com/godiarksel)
+- Twitter: [@godiarksel](https://twitter.com/godiarksel)
+- LinkedIn: [Godfrey Mwandembo](https://linkedin.com/in/godfrey-mwandembo-045667127/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/godiarksel/leaderboard-api/issues).
 
 ## Show your support
 

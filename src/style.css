@@ -1,0 +1,51 @@
+*::before,
+*::after {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.leaderboard {
+  display: flex;
+  margin: 10px;
+}
+
+.table-half {
+  padding-left: 80px;
+  margin-right: 200px;
+}
+
+.table-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2px 6px;
+}
+
+.table-header button {
+  margin-right: 70px;
+}
+
+table {
+  border: 2px solid #000;
+  border-radius: 24px;
+  border-collapse: collapse;
+  margin: 10px auto;
+  min-width: 400px;
+}
+
+.name,
+.score {
+  margin-bottom: 10px;
+}
+
+.table-half p,
+.form-half p {
+  font-size: 28px;
+  font-weight: 600;
+}
